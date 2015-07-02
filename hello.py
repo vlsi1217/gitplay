@@ -5,4 +5,6 @@
 	for i is 1:100:
 		print i
 	end
+4. Try something crazy
+	lambda learning: E = m*(c^2)
 
