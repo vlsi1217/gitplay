@@ -7,14 +7,4 @@
 	end
 4. Try something crazy
 	lambda learning: E = m*(c^2)
-5. Continue doing crazy things
-	if (events & IM_TASK_PROC_EVT)
-	{
-	 if (sensorSte == eSteCollect)
-	 {
-	   if (collectCtl < eCollTest)  im_exec_proc();
-	   else  im_test_proc();
-	 }
-	}
-
 
