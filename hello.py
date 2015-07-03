@@ -7,4 +7,5 @@
 	end
 4. Try something crazy
 	lambda learning: E = m*(c^2)
+5. where is the continue do something crazy?
 
